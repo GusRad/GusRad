@@ -1,4 +1,4 @@
-# Olá, sou Gustavo Nascimento 👋
+# Olá, sou Gustavo Rodrigues 👋
 
 ### Técnico em Radiologia migrando para Engenharia de Dados & IA para Saúde
 
